@@ -2,7 +2,7 @@ module led
 	(
 		input wire CLK_IN,
 		input wire RST_N,
-		input wire keyB,
+		//input wire keyB,
 		output wire [2:0]RGB_LED
 	);
 
